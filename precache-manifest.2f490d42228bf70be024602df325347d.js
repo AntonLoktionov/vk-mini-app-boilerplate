@@ -1,26 +1,26 @@
 self.__precacheManifest = [
   {
-    "revision": "bce334f206c0d45517c5",
+    "revision": "ae6df9dfd0646f2dc061",
     "url": "/vk-mini-app-boilerplate/static/css/main.da5ec31d.chunk.css"
   },
   {
-    "revision": "bce334f206c0d45517c5",
-    "url": "/vk-mini-app-boilerplate/static/js/main.363eef96.chunk.js"
+    "revision": "ae6df9dfd0646f2dc061",
+    "url": "/vk-mini-app-boilerplate/static/js/main.32fab6d9.chunk.js"
   },
   {
     "revision": "c286cce7deafa53a7c4f",
     "url": "/vk-mini-app-boilerplate/static/js/runtime~main.4e009b77.js"
   },
   {
-    "revision": "d4ac63207302b24129b1",
+    "revision": "d2a285f3f3f25661df71",
     "url": "/vk-mini-app-boilerplate/static/css/2.afa90a00.chunk.css"
   },
   {
-    "revision": "d4ac63207302b24129b1",
-    "url": "/vk-mini-app-boilerplate/static/js/2.af833b1e.chunk.js"
+    "revision": "d2a285f3f3f25661df71",
+    "url": "/vk-mini-app-boilerplate/static/js/2.fc19042d.chunk.js"
   },
   {
-    "revision": "5b75e0a14ee82d143193a927b7931173",
+    "revision": "6908238d2ccc623c1f02b111f66d65ab",
     "url": "/vk-mini-app-boilerplate/index.html"
   }
 ];
